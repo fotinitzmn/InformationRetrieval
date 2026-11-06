@@ -1,0 +1,7 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+.env
+.pytest_cache/
+data/raw/cfc/
